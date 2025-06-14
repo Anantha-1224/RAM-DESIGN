@@ -23,3 +23,4 @@ RAM, or Random Access Memory, is a type of computer memory that allows data to b
 
 OUTPUT
 data_out = 0x56
+
